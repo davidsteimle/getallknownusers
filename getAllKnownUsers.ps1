@@ -15,3 +15,5 @@ $AllKnownUsers = $SidList.ForEach({
     }
   }
 })
+
+$AllKnownUsers
